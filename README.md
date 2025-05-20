@@ -32,3 +32,7 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+pandas==2.2.2
+scikit-learn==1.4.2
+numpy==1.26.4
+
